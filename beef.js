@@ -1,6 +1,6 @@
 //
-// Copyright (c) 2006-2020 Wade Alcorn - wade@bindshell.net
-// Browser Exploitation Framework (BeEF) - http://beefproject.com
+// Copyright (c) 2006
+// 
 // See the file 'doc/COPYING' for copying permission
 //
 
